@@ -1,4 +1,4 @@
-# lab2.py#lab2.py
+# lab2.py
 
 
 Latihan Pyhton
