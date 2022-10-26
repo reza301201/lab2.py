@@ -1,4 +1,4 @@
-# lab2.py#lab2.py![b1](https://user-images.githubusercontent.com/116234001/198040083-f9b8e0ea-bfb4-436d-ab66-3a508f4f4c2c.png)
+# lab2.py#lab2.py
 
 
 Latihan Pyhton
